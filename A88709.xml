@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of the taking of Sherburne Castle, and the treachery of the town malignants. As it came in a letter written by a captain who was at the taking of it. Dated from Sherburn and received here the 24. of April, 1643.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88709</idno>
+            <idno type="STC">Wing L44</idno>
+            <idno type="STC">Thomason E99_20</idno>
+            <idno type="STC">ESTC P1069</idno>
+            <idno type="EEBO-CITATION">50290230</idno>
+            <idno type="OCLC">ocm 50290230</idno>
+            <idno type="VID">155846</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88709)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155846)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 17:E99[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of the taking of Sherburne Castle, and the treachery of the town malignants. As it came in a letter written by a captain who was at the taking of it. Dated from Sherburn and received here the 24. of April, 1643.</title>
+                  <author>L. L.</author>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Samuel Gellibrand,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Letter signed at end: L.L.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Sherborne (Dorset, England) --  History, Military --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155846:1"/>
+            <!-- PDF PAGE 24 -->
+            <pb facs="tcp:155846:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 24 -->
+            <p>A True RELATION Of the taking of Sherburne Caſtle, <hi>AND</hi> The treachery of the town malignants.</p>
+            <p>As it came in a Letter written by a Captain who was at the taking of it.</p>
+            <p>
+               <hi>Dated from</hi> Sherburne, <hi>and received here the</hi> 24. <hi>of April,</hi> 1643.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Samuel Gellibrand.</hi> 1643. <add>Aprill 25<hi rend="sup">th</hi>
+               </add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155846:2"/>
+            <!-- PDF PAGE 25 -->
+            <pb n="1" facs="tcp:155846:2"/>
+            <!-- PDF PAGE 25 -->
+            <head>A true Relation of the taking of <hi>Sherbourne Caſtle.</hi>
+            </head>
+            <opener>
+               <salute>Noble Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Fter my humble ſervice preſented unto you, theſe are to let you underſtand that we marched out of <hi>Briſtoll</hi> on the 11. of this preſent with all our Troop, and with one Company of Dragoo<g ref="char:EOLhyphen"/>ners which did conſiſt of about 40<g ref="char:punc">▪</g> men. Col. <hi>Popham</hi> and his brother alſo marched along with us, having no Forces with them but their uſuall attendance. So then we marched into the lower parts of Somerſet-ſhire, to ſeize on the rents of the Lo: <hi>Capel,</hi> and the Lo: <hi>Pawlet,</hi> and of the Marques of <hi>Hartford,</hi> and partly our journey was for the ſpeedy expediting of ſending away the proviſion which was raiſed in that Country to ſend into Ireland. In the lower part of So<g ref="char:EOLhyphen"/>merſetſhire we found men to contribute unto it very cheerfully, but that part which is next adjacent to the County of Wilts, hath been very cold in their contri<g ref="char:EOLhyphen"/>bution towards the Parliament and Ireland, but now we ſhall make them contribute unto us.</p>
+            <p>We alſo marched to <hi>Wells,</hi> where we found Colonel <hi>Strowd</hi> with about an hundred Muſquetiers, and there was ſome falling out betweene Col: <hi>Pophams</hi> men, and one of Col: <hi>Strowds</hi> Captains, but it was quickly pacifi<g ref="char:EOLhyphen"/>ed,
+<pb n="2" facs="tcp:155846:3"/>
+               <!-- PDF PAGE 26 -->for Col: <hi>Strowds</hi> men left the towne the next mor<g ref="char:EOLhyphen"/>ning.</p>
+            <p>We did alſo make ſearch in the Biſhops houſe of <hi>Bath</hi> and <hi>Wells,</hi> and there we found one of the Biſhops gods, which was the Lady <hi>Mary</hi> with the Babe in her arms, and ſhe was bound up in a linnen cloth and laid in a coffin, this we found in the Biſhops cloſet, and my father doth intend to ſend it to the Parliament.</p>
+            <p>At <hi>Wells</hi> we received order from Col: <hi>Fynes</hi> to make all the haſte we could towards <hi>Sherbourne,</hi> for as much as he had received intelligence that the Marques of Hartford &amp; the Lord <hi>George Digby</hi> were on their march from Oxford to come to Sherbourne to raiſe Forces in Dorſetſhire. So we according to our order left Wels, and marched towards Sherbourne with as much ſpeed as we could to come thither before the Marques, and we marched to Sherbourne that night. We ſent a par<g ref="char:EOLhyphen"/>ty of horſe before us to Sherbourne, in all about 20. Horſe and Dragoneers', and gave them order to ſtay for us at the townes end, and not enter into the towne till we came to them, becauſe we knew it to be a very malignant towne. But they it ſhould ſeeme forgot our order, and marched into the town, and when they were in they drew themſelves up into a Battalia, and made a ſtand in a broad place in the towne, and then they pre<g ref="char:EOLhyphen"/>ſently ſent for the Conſtable to provide them and us Quarter. The Conſtable came preſently to them, and told them he would do them the beſt ſervice he could in providing them quarter; but this Conſtable return<g ref="char:EOLhyphen"/>ed no more again to our men, but in ſtead of getting quarter for us, ſought all the meanes he could to raiſe the towne againſt us, ſo we preſently came in to our
+<pb n="3" facs="tcp:155846:3"/>
+               <!-- PDF PAGE 26 -->men, and asked what was the news? they told us there was all peace to us. As we were marching into the towne, we heard a bell ring, and I asked a man what was the reaſon that the bell did ring? he told mee it was the nine of clock bell. So we marched down to<g ref="char:EOLhyphen"/>wards our quarter, for we were come within their chains and their turne pike, then (little dreaming of any op<g ref="char:EOLhyphen"/>poſition that ſhould be made us) we marched downe into the middl<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the towne, it being very dark; when we came againſt the butchers ſhambles, Maſter <hi>Hugh Popham,</hi> Captaine <hi>Smith</hi> and my ſelfe were in the Front a li<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tle before any our men. And then ſome men cal<g ref="char:EOLhyphen"/>led unto us, and bade us ſtand, and asked us for whom we were? our anſwer unto them was, we were for the King and Parliament: they told us they were for the King againſt the Parliament. Then we called for our men to come up unto us, but in the mean time we gave fire upon them, and they likewiſe gave fire upon us, and then they gave fire out of all the windows upon us, and came running out of every doore with Muskets &amp; great Bils, ſaying one to another, Kill the Parliament dogs. Some ten of our Dragooners were between our Troop, and Maſter <hi>Hugh Popham,</hi> my ſelfe and Captain <hi>Smith.</hi> Maſter <hi>Popham</hi> and Captain <hi>Smith</hi> carryed them<g ref="char:EOLhyphen"/>ſelves very valiantly, but thoſe Dragooners of ours had not above three matches lighted amongſt them, which forced them to fly back againe upon our Troop, and ſo made the Troop give back a little way out of the ſtrait place that they were in. So Maſter <hi>Popham,</hi> my ſelf and Captain <hi>Smith</hi> were forced to retreat; Maſter <hi>Hugh Popham</hi> being ſo wounded that he rode not 100. yards from the place before he fell downe dead; Cap. <hi>Smith</hi>
+               <pb n="4" facs="tcp:155846:4"/>
+               <!-- PDF PAGE 27 -->being ſo much wounded, that it is very doubtfull he will not live; and my ſelfe was ſhot through one of my arms, cloſe by the ſhoulder, and had I had no armes, I had been killed like one of them. But thanks be to God I am as well as ever I was in my life, but was never ſo dry beaten with bills and pikes as I was then. We drew our ſelves up into a Body againe vvith all ſpeed, and made our Trumpets ſound a charge upon them pre<g ref="char:EOLhyphen"/>ſently, and ſo vve marched down again upon them. And then vve diſmounted our 40. Dragooners, &amp; they marched dovvn vvith us, and fought very valiantly, ſo that vve preſently beat them from that place of the tovvn, and vvithin one houre vve beat them quite out of the towne, they being in number 300. and vve not above 120. but there was one of our ſouldiers which was ſhot out of a window, who being in heat of bloud ſhot up his piſtoll into the thatch of a houſe (unknown to any Officer there) and the houſe was preſently on a light fire, and it was in the very heart of the town; we had but one man killed in the place which was Maſter <hi>Popham</hi> and ſix or ſeven wounded, ſo at laſt we could not finde one man in the Town, and we rod up and down from one houſe to another to cauſe the people come forth to put out the fire, but they being very dif<g ref="char:EOLhyphen"/>fident of our mercy would not appeare. So we were forced to leave the town for that night; for if we had ſtayed no body would have come to put out the fire, So we marched to a Towne called Evell ſome three miles from Sherborne and there vve quartered all night. The next morning the men of Sherborne beat up their drums for the Cuntrymen to come in to them and ſtood again upon their guard, and vve ſent into the
+<pb n="5" facs="tcp:155846:4"/>
+               <!-- PDF PAGE 27 -->Country for vvhat forces vve could get, and vve have gotten vvithin three dayes 3000. very able men and very vvell armed, and novv are ſome 500. ſtrong in horſe ſo that novv vve have a brave Army, on the 19. of this preſent vve marched tovvard ſherborne again and vvhen the enemy heard of it they ran quite avvay, So vve have poſſeſſion of the Tovvne of Sherborne, the Caſtle and the Earle of Briſtolls houſe, vvhere I beleeve vve ſhall have great ſtore of vvealth; There vvas a Rogue hired by ſome of the men of Sherborne to kill one of the Lieutenant Colonels of Somerſetſhire vvhich man vve have taken, and he hath confeſſed un<g ref="char:EOLhyphen"/>to us vvhom ſet him a vvork, vve have taken ſome Colours there, and novv vve have ſpoiled the party vvhereof they had great hopes there, I pray preſent my duty to my vncle. I reſt,</p>
+            <closer>
+               <dateline>From Sherborne Caſtle <date>21. April 1643.</date>
+               </dateline>
+               <signed>Your humble ſervant, <hi>L.L.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>There vvere about ten men killed that night in Sherborne of the enemies.</p>
+            </postscript>
+            <trailer>FJNJS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
